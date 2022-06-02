@@ -25,7 +25,7 @@ if __name__ == '__main__':
         dummy_message = generate_message()
         
         # Mesaj topiğinin gönderilmesi
-        print(f'Created message @ {datetime.now()} | message = {str(dummy_message)}')
+        print(f'Producing message @ {datetime.now()} | message = {str(dummy_message)}')
         producer.send('message', dummy_message)
         
         # Bekleme süresi atanması
