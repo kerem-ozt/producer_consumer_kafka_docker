@@ -1,4 +1,4 @@
-# producer_consumer_kafka_docker
+# Producer-Consumer (Docker-Kafka)
 Docker imajı kullanarak kafka üzerinden producer-consumer uygulamalarının çalıştırılmsı.
 
 Kafka'yı Docker ile çalıştırabilmek için çok popüler iki tane Docker image'ına ihtiyacımız var. 
