@@ -24,3 +24,5 @@ Son olarak exit komutuyla Kafka shell'den çıkarak **python3 -m pip install kaf
 Artık ortamımız programlarımızın kullanımına hazır. İki farklı terminal açaraak birinde **conusmer.py** adlı dosyayı diğerindeyse **producer.py** isimli dosyayı çalıştırarak birinin ürettiği mesajları diğerine ilettiğini görebiliriz.
 
 ![4](https://user-images.githubusercontent.com/56919911/171718334-590ee969-0193-4b8e-ae0d-df62c104e70e.png)
+
+Muhammet Kerem Ozturk - 170419007
